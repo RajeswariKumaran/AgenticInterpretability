@@ -1,4 +1,4 @@
-# AgenticInterpretability
+# Agentic Interpretability
 
 # Implementation Analysis
 ## How Semantic Conventions Solve AI Interpretability Challenges
